@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">DIU-Food_App</string>
+    <string name="title_activity_main">DIU-Food_App</string>
+    <string name="package_name">com.Mealplan.Diu</string>
+    <string name="custom_url_scheme">com.Mealplan.Diu</string>
+</resources>
